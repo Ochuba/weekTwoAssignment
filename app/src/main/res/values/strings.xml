@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">weekTwoAssignment</string>
+    <string name="nextButton">Next Activity</string>
+    <string name="addButton">Add Fragment</string>
+    <string name="removeButton">Remove Fragment</string>
+    <string name="noFragment">No Fragment Added Yet</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
