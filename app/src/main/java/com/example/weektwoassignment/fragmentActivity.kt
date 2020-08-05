@@ -40,6 +40,7 @@ class fragmentActivity : AppCompatActivity() {
 
             }
             arg.putInt("tis", count)
+            fragOne.arguments = arg
             fragTwo.arguments = arg
             fragThree.arguments = arg
             count++
